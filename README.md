@@ -7,3 +7,4 @@
 ## local dev
 
 open index.html in your browser
+yes yes yes
